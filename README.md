@@ -1,8 +1,8 @@
-# Eleven free files that hand one office job each to your AI
+# Twelve free files that hand one office job each to your AI
 
 Each file is plain text you give to Claude or ChatGPT. Your AI reads it and walks you through one job, start to finish.
 
-These are the same free files I give away on bernan.ai. Each one comes from the AI setup I run every day.
+Most are the same free files I give away on bernan.ai. Each one comes from the AI setup I run every day.
 
 ## Every file starts the same way
 
@@ -11,7 +11,7 @@ These are the same free files I give away on bernan.ai. Each one comes from the 
 3. Attach the file with + or the paperclip.
 4. Follow the numbered steps at the top of the file.
 
-## The eleven files
+## The twelve files
 
 | File | Folder | Page |
 |---|---|---|
@@ -26,14 +26,15 @@ These are the same free files I give away on bernan.ai. Each one comes from the 
 | The Chris Voss upgrade for your AI | [negotiation](negotiation/) | [bernan.ai/free/negotiation](https://bernan.ai/free/negotiation?utm_source=github&utm_medium=readme&utm_campaign=negotiation&utm_content=top) |
 | GITHUB: my toolkit, sorted by job | [github](github/) | [bernan.ai/free/github](https://bernan.ai/free/github?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=top) |
 | WIFI: find out why your Wi-Fi is slow | [wifi](wifi/) | [bernan.ai/free/wifi](https://bernan.ai/free/wifi?utm_source=github&utm_medium=readme&utm_campaign=wifi&utm_content=top) |
+| RENDERS: turn a phone photo into the finished room | [renders](renders/) | Here on GitHub |
 
-Each file here is the exact text you download from its bernan.ai page.
+Each file with a bernan.ai page is the exact text you download from that page.
 
 ## What this reads, writes and sends
 
 - **Reads:** nothing by itself. Your AI reads only what you paste, upload or choose to connect.
 - **Writes:** nothing by itself. A file that installs a tool asks you first. A setting, like one on your router, you change yourself.
-- **Sends:** nothing. No file sends an email, a text or a post for you. Drafts stay in your chat until you send them yourself.
+- **Sends:** no email, text or post. Drafts stay in your chat until you send them yourself. The renders skill sends your photo to the image model you pick, only after you say yes, with your own key.
 
 The email file also shows how to let your AI send routine mail later, if you choose to.
 
