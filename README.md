@@ -1,4 +1,4 @@
-# Twelve free files that hand one office job each to your AI
+# Thirteen free files that hand one office job each to your AI
 
 Each file is plain text you give to Claude or ChatGPT. Your AI reads it and walks you through one job, start to finish.
 
@@ -11,7 +11,7 @@ Most are the same free files I give away on bernan.ai. Each one comes from the A
 3. Attach the file with + or the paperclip.
 4. Follow the numbered steps at the top of the file.
 
-## The twelve files
+## The thirteen files
 
 | File | Folder | Page |
 |---|---|---|
@@ -27,6 +27,7 @@ Most are the same free files I give away on bernan.ai. Each one comes from the A
 | GITHUB: my toolkit, sorted by job | [github](github/) | [bernan.ai/free/github](https://bernan.ai/free/github?utm_source=github&utm_medium=readme&utm_campaign=github&utm_content=top) |
 | WIFI: find out why your Wi-Fi is slow | [wifi](wifi/) | [bernan.ai/free/wifi](https://bernan.ai/free/wifi?utm_source=github&utm_medium=readme&utm_campaign=wifi&utm_content=top) |
 | RENDERS: turn a phone photo into the finished room | [renders](renders/) | Here on GitHub |
+| PLANS: turn a plan set into a takeoff and a first-pass price | [plans](plans/) | Here on GitHub |
 
 Each file with a bernan.ai page is the exact text you download from that page.
 
@@ -34,7 +35,7 @@ Each file with a bernan.ai page is the exact text you download from that page.
 
 - **Reads:** nothing by itself. Your AI reads only what you paste, upload or choose to connect.
 - **Writes:** nothing by itself. A file that installs a tool asks you first. A setting, like one on your router, you change yourself.
-- **Sends:** no email, text or post. Drafts stay in your chat until you send them yourself. The renders skill sends your photo to the image model you pick, only after you say yes, with your own key.
+- **Sends:** no email, text or post. Drafts stay in your chat until you send them yourself. The renders skill sends your photo to the image model you pick, only after you say yes, with your own key. The plans skill's script sends nothing; it works only on your computer.
 
 The email file also shows how to let your AI send routine mail later, if you choose to.
 

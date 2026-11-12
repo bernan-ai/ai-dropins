@@ -1,0 +1,323 @@
+{
+ "job": "The Epson, Hotel Lobby and Bar, Bid Set 11/11/2026",
+ "sheets": [
+  {
+   "number": "G-001",
+   "title": "Cover Sheet",
+   "scale": "none"
+  },
+  {
+   "number": "A-101",
+   "title": "Floor Plan",
+   "scale": "1/4\" = 1'-0\""
+  },
+  {
+   "number": "A-102",
+   "title": "Furniture Plan",
+   "scale": "1/4\" = 1'-0\""
+  },
+  {
+   "number": "A-601",
+   "title": "Door and Room Finish Schedules",
+   "scale": "none"
+  }
+ ],
+ "plan_image": "epson-sheet-A-101.png",
+ "rooms": [
+  {
+   "number": "101",
+   "name": "Lobby and Bar",
+   "floor_sf": 1904,
+   "floor_sf_source": "printed on plan; checked 56'-0\" x 34'-0\" dimensions",
+   "perimeter_lf": 180,
+   "ceiling_height_ft": 14,
+   "wall_sf": 2520,
+   "ceiling_sf": 1904,
+   "base_lf": 161.5,
+   "floor_finish": "FL-1",
+   "box": [
+    0.185,
+    0.271,
+    0.574,
+    0.624
+   ]
+  },
+  {
+   "number": "102",
+   "name": "Coat",
+   "floor_sf": 117,
+   "floor_sf_source": "printed on plan; checked by scale 13.74 x 8.5",
+   "perimeter_lf": 44.5,
+   "ceiling_height_ft": 9,
+   "wall_sf": 400.5,
+   "ceiling_sf": 117,
+   "base_lf": 41.5,
+   "floor_finish": "FL-2",
+   "box": [
+    0.185,
+    0.177,
+    0.28,
+    0.265
+   ]
+  },
+  {
+   "number": "103",
+   "name": "Women",
+   "floor_sf": 115,
+   "floor_sf_source": "printed on plan; checked by scale 13.50 x 8.5",
+   "perimeter_lf": 44,
+   "ceiling_height_ft": 9,
+   "wall_sf": 396,
+   "ceiling_sf": 115,
+   "base_lf": 41,
+   "floor_finish": "FL-2",
+   "box": [
+    0.284,
+    0.177,
+    0.378,
+    0.265
+   ]
+  },
+  {
+   "number": "104",
+   "name": "Men",
+   "floor_sf": 115,
+   "floor_sf_source": "printed on plan; checked by scale 13.50 x 8.5",
+   "perimeter_lf": 44,
+   "ceiling_height_ft": 9,
+   "wall_sf": 396,
+   "ceiling_sf": 115,
+   "base_lf": 41,
+   "floor_finish": "FL-2",
+   "box": [
+    0.381,
+    0.177,
+    0.475,
+    0.265
+   ]
+  },
+  {
+   "number": "105",
+   "name": "Back of House",
+   "floor_sf": 117,
+   "floor_sf_source": "printed on plan; checked by scale 13.74 x 8.5",
+   "perimeter_lf": 44.5,
+   "ceiling_height_ft": 9,
+   "wall_sf": 400.5,
+   "ceiling_sf": 117,
+   "base_lf": 41,
+   "floor_finish": "FL-2",
+   "box": [
+    0.479,
+    0.177,
+    0.574,
+    0.265
+   ]
+  }
+ ],
+ "doors": [
+  {
+   "mark": "D1",
+   "room": "101",
+   "width": "6'-0\"",
+   "type": "pair, glass and bronze, entry",
+   "leaves": 2,
+   "at": [
+    0.379,
+    0.628
+   ]
+  },
+  {
+   "mark": "D2",
+   "room": "102",
+   "width": "3'-0\"",
+   "type": "single, wood",
+   "leaves": 1,
+   "at": [
+    0.253,
+    0.268
+   ]
+  },
+  {
+   "mark": "D3",
+   "room": "103",
+   "width": "3'-0\"",
+   "type": "single, wood",
+   "leaves": 1,
+   "at": [
+    0.311,
+    0.268
+   ]
+  },
+  {
+   "mark": "D4",
+   "room": "104",
+   "width": "3'-0\"",
+   "type": "single, wood",
+   "leaves": 1,
+   "at": [
+    0.427,
+    0.268
+   ]
+  },
+  {
+   "mark": "D5",
+   "room": "105",
+   "width": "3'-6\"",
+   "type": "single, wood",
+   "leaves": 1,
+   "at": [
+    0.544,
+    0.268
+   ]
+  }
+ ],
+ "fixtures": [
+  {
+   "item": "bar stool (unlabeled)",
+   "room": "101",
+   "count": 9
+  },
+  {
+   "item": "plant (unlabeled)",
+   "room": "101",
+   "count": 6
+  },
+  {
+   "item": "small round table at west banquette (unlabeled)",
+   "room": "101",
+   "count": 4
+  },
+  {
+   "item": "small square chair or stool at west banquette (unlabeled)",
+   "room": "101",
+   "count": 4
+  },
+  {
+   "item": "rug, lounge group",
+   "room": "101",
+   "count": 2
+  },
+  {
+   "item": "round table, lounge group",
+   "room": "101",
+   "count": 2
+  },
+  {
+   "item": "chair, lounge group",
+   "room": "101",
+   "count": 8
+  },
+  {
+   "item": "large round piece, about 5 ft, unidentified",
+   "room": "101",
+   "count": 1
+  },
+  {
+   "item": "dashed piece at south pier, unidentified",
+   "room": "101",
+   "count": 4
+  },
+  {
+   "item": "millwork, probable bar counter (unlabeled)",
+   "room": "101",
+   "count": 1
+  },
+  {
+   "item": "millwork, probable back bar (unlabeled)",
+   "room": "101",
+   "count": 1
+  },
+  {
+   "item": "millwork, probable banquette (unlabeled)",
+   "room": "101",
+   "count": 1
+  },
+  {
+   "item": "millwork, probable reception desk (unlabeled)",
+   "room": "101",
+   "count": 1
+  }
+ ],
+ "flags": [
+  {
+   "where": "105 Back of House",
+   "reason": "Plan tags wall PT-1; finish schedule says PT-2."
+  },
+  {
+   "where": "101 south wall",
+   "reason": "Mostly glass: about 25.7 LF storefront plus 6 ft door of 56 LF. Wall SF and base LF include the glass."
+  },
+  {
+   "where": "101 south wall",
+   "reason": "Storefront head height not given; cannot work out the wall above the glass."
+  },
+  {
+   "where": "101 dimensions",
+   "reason": "Two stacked 56'-0\" strings over the same extents; inside faces measure 55.97 ft, so 56 used."
+  },
+  {
+   "where": "102-105 widths",
+   "reason": "Not dimensioned; measured with the scale. Matches printed areas within rounding."
+  },
+  {
+   "where": "All ceilings",
+   "reason": "No ceiling plan; heights from schedule only. PT-CLG mentions coffers that may add area."
+  },
+  {
+   "where": "Lighting",
+   "reason": "No ceiling plan, so light fixtures not counted."
+  },
+  {
+   "where": "103 Women, 104 Men",
+   "reason": "No plumbing fixtures, toilet partitions or wall tile drawn."
+  },
+  {
+   "where": "101 west, two thin vertical lines",
+   "reason": "Untagged; possible low screens or partitions. Not counted as wall."
+  },
+  {
+   "where": "101 orange-filled pieces",
+   "reason": "Unlabeled; bar, back bar, banquette and desk are my reading. May reduce floor and base."
+  },
+  {
+   "where": "101 dashed pieces at south piers",
+   "reason": "Unidentified."
+  },
+  {
+   "where": "101 large round piece",
+   "reason": "Unidentified, about 5 ft round."
+  },
+  {
+   "where": "D1",
+   "reason": "PT-1 tag drawn at the entry door, but the door finish is BZ-1."
+  },
+  {
+   "where": "103, 104, 105 floor tags",
+   "reason": "Not tagged on the plan; FL-2 taken from the schedule."
+  },
+  {
+   "where": "Rate sheet, floor",
+   "reason": "One rate covers both terrazzo FL-1 and porcelain FL-2."
+  },
+  {
+   "where": "Rate sheet, doors",
+   "reason": "D1 is bronze, not painted; priced 4 doors, not 6."
+  },
+  {
+   "where": "Rate sheet",
+   "reason": "All rates are marked as made-up examples."
+  },
+  {
+   "where": "Base",
+   "reason": "No deduction for storefront or built-ins, per the stated rule."
+  }
+ ],
+ "totals": {
+  "floor_sf": 2368,
+  "wall_sf": 4113,
+  "ceiling_sf": 2368,
+  "base_lf": 326,
+  "doors": 6
+ }
+}

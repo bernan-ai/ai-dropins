@@ -1,0 +1,8 @@
+item,quantity,unit,rate,note
+# EXAMPLE RATES. REPLACE WITH YOURS. These round numbers are made up for the demo and are not anyone's real prices.,,,,
+"Floor finish, supply and install",floor_sf,SF,10.00,"example rate, replace with yours"
+"Wall paint, two coats",wall_sf,SF,2.00,"example rate, replace with yours"
+"Ceiling paint, two coats",ceiling_sf,SF,2.00,"example rate, replace with yours"
+"Base, supply and install",base_lf,LF,10.00,"example rate, replace with yours"
+"Door, paint both sides",doors,EA,100.00,"example rate, replace with yours"
+Overhead and profit,markup_pct,%,10,"example rate, replace with yours"
