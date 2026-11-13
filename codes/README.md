@@ -2,6 +2,8 @@
 
 The file is [codes.md](codes.md). It works in Claude or ChatGPT, free plans included.
 
+Prefer a spreadsheet? [travel-codes.xlsx](travel-codes.xlsx) has 103 codes for rental cars and hotels, each with who can use it and its public source, checked Nov 13, 2026 ([CSV version](travel-codes.csv)). Attach it to Claude the same way. Read the warning on its first sheet.
+
 ## How to use it
 
 1. Download [codes.md](codes.md). It's a plain text file. On an iPhone it lands in Files, then Downloads.
